@@ -1,0 +1,23 @@
+{
+  "MONGODB": {
+    "GLOBAL": {
+      "DATABASE": {
+        "DTOUB": {
+          "COLLECTION": {
+            "ADMIN": "admin",
+            "CODE_REGISTRATION": "code_registration",
+            "CODE_VERIFICATION": "code_verification",
+            "LOG": "log",
+            "PROPERTY": "property",
+            "USER": "user",
+            "ROLE": "role",
+            "GOAL": "goal"
+          },
+          "NAME": "dtoub"
+        }
+      },
+      "URI": "mongodb+srv://pratik:pratik2204@dev-cluster.uiss5ov.mongodb.net/dtoub",
+      "USE_TEST_PIN": "true"
+    }
+  }
+}
